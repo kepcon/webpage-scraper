@@ -22,6 +22,7 @@ def print_files(page, file_list):
         #Retrieves every file in list and downloads them
         downloadfile = sys.argv[1].replace("index.html", file1)
         print file1
+        #SPECIFY DOWNLOAD PATH
         urllib.urlretrieve(downloadfile, "C:\\temp\\coursework\\" + file1)
         #Adds all downloaded files to list
         file_list.append("C:\\temp\\coursework\\" + file1)
