@@ -2,7 +2,7 @@
 Python web scraping/info gathering utility created for Applications Development module.
 
 Enter link into getwebinfo.py script then run to call all other scripts.
-Each script can be run individually by uncommenting the specified line in that script.
+Each script can be run individually by uncommenting the 'sys.argv.append' line in each script.
 
 ####webpage_get : 
 Retrieves html structure of website via URL.
