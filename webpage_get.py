@@ -1,6 +1,6 @@
 # Script:   webpage_get.py
 # Desc:     Fetches data from a webpage.
-# Author:   Rich Macf, edited by Connor Keppie
+
 # Created:  Nov, 2014. edited Nov, 2015
 #
 import sys, urllib
