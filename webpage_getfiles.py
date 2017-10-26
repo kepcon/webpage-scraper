@@ -4,7 +4,6 @@
 #      +Produces formatted list of matched files
 #      +Downloads all files found in list
 #      +Compares downloaded files with a set of bad hashes
-#Author Rich Macf, edited Connor Keppie
 #Created Nov, 2013 edited Nov 2015
 
 import sys, re, urllib, os, hashlib
