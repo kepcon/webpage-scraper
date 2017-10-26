@@ -1,6 +1,6 @@
 #Script: getwebinfo.py
 #Desc: Runs all web gathering coursework scripts
-#Author: Connor Keppie
+
 #Created: Nov 2015
 
 import sys, webpage_get, webpage_getfiles, webpage_getlinks, webpage_getuniqueinfo_crackhash
