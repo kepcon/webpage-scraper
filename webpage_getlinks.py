@@ -2,7 +2,6 @@
 #Desc: Basic web site info gathering and analysis script
 #      From a URL gets page content, parsing links out.
 #      Produces formatted list of matched links
-#Author: Rich Macf, edited by Connor Keppie
 #Created: Nov, 2013 edited Nov 2015
 
 import sys, re
