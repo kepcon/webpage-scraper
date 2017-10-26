@@ -3,7 +3,7 @@
 #      From a URL gets page content, parsing md5hash hex numbers, email addresses and phone numbers
 #      Produces formatted list of matched info
 #      Cracks hash passwords using dictionary of common passwords
-#Author Rich Macf, edited by Connor Keppie
+
 #Created Nov, 2013 edited Nov 2015
 
 import sys, re, hashlib
